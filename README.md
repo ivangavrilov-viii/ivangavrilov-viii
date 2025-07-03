@@ -41,7 +41,7 @@
 - **Языки и фреймворки**:
 	- Python, SQL, bash (Django, FastAPI, Celery, asyncio)
 - **API**:
-	- RESTful API, Swagger / ReDoc, versioning
+	- RESTful API, Swagger, versioning
 - **Аутентификация / Авторизация**:
 	- JWT, OAuth2, role-based access
 - **Визуальный интерфейс**:
