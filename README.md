@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://leocars-rental.ru/static/general/logo/developer.svg"
 </p>
-<h1 align="center">I'm Ivan Gavrilov</h1>
-<h2 align="center">Senior Software Developer</h2>
+<h1 align="center">Senior Software Developer</h1>
 <h4 align="center">Production experience – 6 years</h4>
   
 ### Positions now:
@@ -10,7 +9,7 @@
 - CEO IT LEOCARS
 - CEO IT KINOKADR
 - CEO IT Crypto Investment Fund
-- Main web-developer in  GLOBAL PAYMENTS SOLUTIONS
+- Main web-developer in GLOBAL PAYMENTS SOLUTIONS
 ---
   
 ### Works performed:
@@ -33,7 +32,8 @@
 - Телеграм бот для ведения учета посещаемости тренировок команды по футболу
 - Телеграм бот магазин с подключением `cryptobot`
 - Различные сервисы синхронизации и автоматизации на FastAPI
-- Проектирование системы фильтрации и комплексирования изображений в разных оптических спектрах
+- Проектирование и разработка системы фильтрации и комплексирования изображений в разных оптических спектрах
+- Разработка и реализация компьтерного приложения
 
 ---
 ### STACK
@@ -44,17 +44,19 @@
 	- RESTful API, Swagger / ReDoc, versioning
 - **Аутентификация / Авторизация**:
 	- JWT, OAuth2, role-based access
+- **Визуальный интерфейс**:
+	- Tkinter
 - **Базы данных**:
 	- PostgreSQL, MySQL, SQLite
-	- ORM: Django ORM, SQLAlchemy
+	- ORM: Django ORM
 - **Интеграции**:
-	- Платежные системы: Yookassa, Tinkoff TBank, PaySelection
+	- Платежные системы: Yookassa, T-TBank, PaySelection
 	- Google API (Translate), Telegram API
 ####  Frontend
 - HTML, CSS, JavaScript
 - Bootstrap, Jinja2 (шаблоны Django)
 - Внедрение турбо-страниц (Yandex Turbo)
-- SEO-оптимизация, Yandex Webmaster
+- SEO-оптимизация, Yandex Webmaster, GooglePageSpeed
 #### DevOps & CI/CD
 - **Системы контроля версий**:
 	- Git (GitLab, self-hosted), SVN
