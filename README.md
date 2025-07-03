@@ -5,7 +5,7 @@
 <h4 align="center">Production experience – 6 years</h4>
   
 ### Positions now:
-- Deputy Director for IT direction
+- Deputy Director for IT
 - CEO IT LEOCARS
 - CEO IT KINOKADR
 - CEO IT Crypto Investment Fund
