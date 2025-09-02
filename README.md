@@ -6,9 +6,9 @@
   
 ### Positions now:
 - Deputy Director for IT
-- CEO IT LEOCARS
-- CEO IT KINOKADR
-- CEO IT Crypto Investment Fund
+- CTO LEOCARS
+- CTO KINOKADR
+- CTO Crypto Investment Fund
 - Main web-developer in GLOBAL PAYMENTS SOLUTIONS
 ---
   
@@ -50,7 +50,7 @@
 	- PostgreSQL, MySQL, SQLite
 	- ORM: Django ORM
 - **Интеграции**:
-	- Платежные системы: Yookassa, T-TBank, PaySelection
+	- Платежные системы: Yookassa, T-Pay, PaySelection
 	- Google API (Translate), Telegram API
 ####  Frontend
 - HTML, CSS, JavaScript
