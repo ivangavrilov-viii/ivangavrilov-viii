@@ -6,10 +6,10 @@
   
 ### Positions now:
 - Deputy Director for IT
+- CEO CAREMPIRE
+- CEO Iti-Agency
 - CTO LEOCARS
-- CTO KINOKADR
 - CTO Crypto Investment Fund
-- Main web-developer in GLOBAL PAYMENTS SOLUTIONS
 ---
   
 ### Works performed:
